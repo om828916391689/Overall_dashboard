@@ -1,0 +1,111 @@
+Roll No,Name,Email,Branch,Year,IA Marks,Skills,Interest,CGPA,Attendance
+001,Priya Sharma,priya.sharma@example.com,CSE,3rd,50,"Python, AI","AI, IoT",8.53,87
+002,Rajesh Verma,neha.jain@example.com,Mechanical,3rd,46,"Python, Data Science","AI, ML",7.79,87
+003,Nisha Patel,rajesh.verma@example.com,ECE,3rd,49,"Python, C",Web Development,7.81,91
+004,Amit Kumar,ravi.deshmukh@example.com,ECE,3rd,42,"Java, Web Development",Cybersecurity,7.87,96
+005,Suresh Babu,vikram.singh@example.com,ECE,3rd,42,"Python, Java",Blockchain,9.1,90
+006,Neha Jain,pooja.gupta@example.com,ECE,3rd,45,"C, Machine Learning","AI, ML",7.6,95
+007,Suresh Babu,vikram.singh@example.com,CSE,3rd,45,"JavaScript, HTML",Data Science,7.82,95
+008,Nisha Patel,nisha.patel@example.com,CSE,3rd,50,"JavaScript, HTML",Web Development,8.11,93
+009,Neha Jain,priya.sharma@example.com,Mechanical,3rd,50,"Java, Web Development",Machine Learning,8.49,90
+010,Priya Sharma,neha.jain@example.com,Mechanical,3rd,47,"JavaScript, HTML",Cloud Computing,8.37,96
+011,Ravi Deshmukh,pooja.gupta@example.com,Mechanical,3rd,46,"Python, Java",Web Development,8.85,92
+012,Vikram Singh,vikram.singh@example.com,CSE,3rd,44,"C, Machine Learning",Web Development,8.02,98
+013,Neha Jain,neha.jain@example.com,CSE,3rd,41,"Python, Data Science","AI, Robotics",8.49,90
+014,Neha Jain,ravi.deshmukh@example.com,CSE,3rd,45,"C++, SQL",Web Development,9.35,93
+015,Priya Sharma,rajesh.verma@example.com,ECE,3rd,49,"JavaScript, HTML","AI, IoT",8.26,96
+016,Rajesh Verma,suresh.babu@example.com,ECE,3rd,40,"C++, SQL","AI, IoT",8.6,85
+017,Vikram Singh,rajesh.verma@example.com,CSE,3rd,48,"Python, AI","AI, ML",8.73,96
+018,Amit Kumar,neha.jain@example.com,ECE,3rd,48,"C++, SQL","AI, Robotics",8.06,93
+019,Suresh Babu,amit.kumar@example.com,CSE,3rd,49,"C++, SQL","AI, Robotics",9.21,98
+020,Vikram Singh,rajesh.verma@example.com,ECE,3rd,49,"Python, C","AI, ML",7.75,94
+021,Suresh Babu,anjali.reddy@example.com,Mechanical,3rd,41,"C++, Networking",Machine Learning,8.85,95
+022,Vikram Singh,nisha.patel@example.com,CSE,3rd,48,"Python, AI",Machine Learning,8.85,89
+023,Rajesh Verma,neha.jain@example.com,ECE,3rd,48,"Java, Web Development",Machine Learning,8.56,88
+024,Suresh Babu,amit.kumar@example.com,Mechanical,3rd,50,"JavaScript, HTML",Data Science,8.61,97
+025,Suresh Babu,nisha.patel@example.com,Mechanical,3rd,40,"Python, C",Cybersecurity,7.88,94
+026,Suresh Babu,amit.kumar@example.com,Mechanical,3rd,45,"Python, Java",Machine Learning,8.52,94
+027,Vikram Singh,pooja.gupta@example.com,IT,3rd,49,"JavaScript, HTML",Machine Learning,7.75,93
+028,Priya Sharma,suresh.babu@example.com,CSE,3rd,50,"Python, Data Science",Machine Learning,9.14,90
+029,Ravi Deshmukh,rajesh.verma@example.com,CSE,3rd,50,"Java, SQL",Cloud Computing,9.33,91
+030,Vikram Singh,neha.jain@example.com,IT,3rd,44,"Java, Web Development","AI, IoT",9.48,88
+031,Ravi Deshmukh,suresh.babu@example.com,Mechanical,3rd,43,"C++, Networking",Web Development,9.49,86
+032,Ravi Deshmukh,nisha.patel@example.com,ECE,3rd,40,"C++, SQL",Blockchain,7.58,96
+033,Amit Kumar,priya.sharma@example.com,CSE,3rd,44,"C++, Networking",Cybersecurity,9.35,93
+034,Pooja Gupta,suresh.babu@example.com,CSE,3rd,44,"C++, Networking",Web Development,8.61,98
+035,Nisha Patel,neha.jain@example.com,ECE,3rd,43,"C, Machine Learning",Data Science,8.96,93
+036,Neha Jain,ravi.deshmukh@example.com,Mechanical,3rd,47,"C++, Networking",Cloud Computing,7.51,88
+037,Anjali Reddy,priya.sharma@example.com,Mechanical,3rd,50,"Java, SQL",Blockchain,8.91,93
+038,Anjali Reddy,ravi.deshmukh@example.com,CSE,3rd,45,"Python, AI",Web Development,8.22,95
+039,Suresh Babu,suresh.babu@example.com,CSE,3rd,43,"C++, Networking","AI, ML",8.49,85
+040,Rajesh Verma,amit.kumar@example.com,ECE,3rd,50,"Python, AI","AI, ML",9.14,93
+041,Priya Sharma,pooja.gupta@example.com,ECE,3rd,49,"C++, Networking",Cybersecurity,8.88,91
+042,Vikram Singh,pooja.gupta@example.com,CSE,3rd,45,"C++, SQL",Blockchain,8.44,94
+043,Ravi Deshmukh,suresh.babu@example.com,Mechanical,3rd,42,"C++, SQL",Data Science,9.38,88
+044,Vikram Singh,neha.jain@example.com,IT,3rd,45,"C++, SQL",Cloud Computing,8.36,86
+045,Ravi Deshmukh,rajesh.verma@example.com,ECE,3rd,42,"JavaScript, HTML",Machine Learning,8.58,88
+046,Nisha Patel,vikram.singh@example.com,CSE,3rd,46,"Python, C",Cybersecurity,9.4,86
+047,Pooja Gupta,pooja.gupta@example.com,IT,3rd,45,"C, Machine Learning",Cloud Computing,9.13,96
+048,Pooja Gupta,vikram.singh@example.com,CSE,3rd,48,"Python, C",Blockchain,7.97,88
+049,Ravi Deshmukh,ravi.deshmukh@example.com,IT,3rd,42,"Python, AI",Web Development,9.4,85
+050,Ravi Deshmukh,suresh.babu@example.com,ECE,3rd,48,"Java, Web Development",Data Science,8.34,93
+051,Amit Kumar,ravi.deshmukh@example.com,Mechanical,3rd,46,"Python, C",Blockchain,9.29,87
+052,Vikram Singh,amit.kumar@example.com,ECE,3rd,43,"Python, Data Science","AI, IoT",7.72,89
+053,Suresh Babu,pooja.gupta@example.com,IT,3rd,44,"C++, SQL","AI, ML",8.09,98
+054,Rajesh Verma,nisha.patel@example.com,Mechanical,3rd,50,"Python, AI",Blockchain,9.11,87
+055,Priya Sharma,priya.sharma@example.com,CSE,3rd,47,"Python, Java","AI, ML",7.97,88
+056,Ravi Deshmukh,pooja.gupta@example.com,ECE,3rd,49,"Java, Web Development",Data Science,7.85,96
+057,Priya Sharma,nisha.patel@example.com,Mechanical,3rd,42,"Java, Web Development","AI, IoT",8.12,96
+058,Pooja Gupta,ravi.deshmukh@example.com,IT,3rd,47,"Python, AI",Web Development,9.24,94
+059,Pooja Gupta,rajesh.verma@example.com,IT,3rd,48,"Python, Java",Blockchain,8.09,87
+060,Vikram Singh,anjali.reddy@example.com,Mechanical,3rd,48,"C++, SQL",Machine Learning,9.49,96
+061,Anjali Reddy,vikram.singh@example.com,IT,3rd,40,"Python, C",Data Science,7.75,98
+062,Neha Jain,ravi.deshmukh@example.com,ECE,3rd,49,"Python, Java","AI, ML",9.24,88
+063,Priya Sharma,anjali.reddy@example.com,CSE,3rd,40,"C++, Networking",Web Development,7.81,86
+064,Vikram Singh,nisha.patel@example.com,Mechanical,3rd,40,"Python, Data Science","AI, Robotics",8.84,96
+065,Neha Jain,amit.kumar@example.com,ECE,3rd,49,"Java, Web Development",Machine Learning,9.35,85
+066,Nisha Patel,ravi.deshmukh@example.com,CSE,3rd,47,"Java, SQL",Machine Learning,8.6,90
+067,Ravi Deshmukh,amit.kumar@example.com,IT,3rd,44,"Python, Java",Machine Learning,8.08,86
+068,Neha Jain,vikram.singh@example.com,ECE,3rd,42,"C, Machine Learning",Cybersecurity,7.94,87
+069,Nisha Patel,anjali.reddy@example.com,Mechanical,3rd,50,"C++, SQL",Cloud Computing,9.4,85
+070,Priya Sharma,priya.sharma@example.com,Mechanical,3rd,50,"Java, Web Development","AI, ML",8.02,96
+071,Amit Kumar,amit.kumar@example.com,CSE,3rd,46,"C, Machine Learning",Web Development,8.05,90
+072,Ravi Deshmukh,amit.kumar@example.com,ECE,3rd,48,"Python, C",Cybersecurity,8.16,94
+073,Rajesh Verma,rajesh.verma@example.com,CSE,3rd,47,"Python, Data Science",Cybersecurity,8.23,90
+074,Priya Sharma,rajesh.verma@example.com,IT,3rd,47,"Python, Data Science",Web Development,8.98,85
+075,Rajesh Verma,priya.sharma@example.com,ECE,3rd,45,"Java, Web Development",Machine Learning,8.51,93
+076,Vikram Singh,priya.sharma@example.com,ECE,3rd,45,"Python, AI",Blockchain,7.52,90
+077,Nisha Patel,pooja.gupta@example.com,IT,3rd,42,"Java, Web Development","AI, IoT",8.58,90
+078,Priya Sharma,ravi.deshmukh@example.com,CSE,3rd,46,"Java, Web Development",Data Science,9.49,98
+079,Anjali Reddy,suresh.babu@example.com,CSE,3rd,47,"C++, SQL",Web Development,8.31,90
+080,Vikram Singh,priya.sharma@example.com,CSE,3rd,48,"Python, C",Cybersecurity,7.84,89
+081,Suresh Babu,rajesh.verma@example.com,ECE,3rd,48,"Python, C",Web Development,7.59,90
+082,Priya Sharma,priya.sharma@example.com,ECE,3rd,41,"Python, Java",Web Development,9.1,97
+083,Priya Sharma,ravi.deshmukh@example.com,IT,3rd,48,"C, Machine Learning",Blockchain,7.92,90
+084,Suresh Babu,amit.kumar@example.com,ECE,3rd,50,"C, Machine Learning","AI, ML",7.67,85
+085,Vikram Singh,amit.kumar@example.com,ECE,3rd,46,"Python, AI",Blockchain,7.56,98
+086,Amit Kumar,pooja.gupta@example.com,IT,3rd,42,"Python, Data Science",Data Science,8.08,87
+087,Nisha Patel,pooja.gupta@example.com,CSE,3rd,42,"Python, AI","AI, IoT",8.79,85
+088,Priya Sharma,amit.kumar@example.com,ECE,3rd,50,"C++, SQL","AI, ML",8.97,94
+089,Anjali Reddy,ravi.deshmukh@example.com,CSE,3rd,49,"Python, AI",Web Development,8.18,90
+090,Suresh Babu,neha.jain@example.com,IT,3rd,46,"Python, C","AI, ML",8.07,98
+091,Amit Kumar,vikram.singh@example.com,Mechanical,3rd,49,"Python, AI","AI, ML",8.42,98
+092,Suresh Babu,amit.kumar@example.com,IT,3rd,43,"Java, Web Development","AI, IoT",7.67,93
+093,Ravi Deshmukh,suresh.babu@example.com,CSE,3rd,49,"Python, Data Science",Web Development,8.43,93
+094,Pooja Gupta,amit.kumar@example.com,ECE,3rd,41,"Java, SQL",Data Science,8.84,88
+095,Nisha Patel,vikram.singh@example.com,IT,3rd,49,"Java, SQL",Web Development,8.13,88
+096,Rajesh Verma,nisha.patel@example.com,IT,3rd,44,"Python, C",Cybersecurity,8.56,97
+097,Vikram Singh,amit.kumar@example.com,CSE,3rd,40,"Java, Web Development",Cybersecurity,8.59,85
+098,Amit Kumar,rajesh.verma@example.com,Mechanical,3rd,43,"JavaScript, HTML","AI, IoT",9.29,90
+099,Pooja Gupta,vikram.singh@example.com,IT,3rd,40,"Python, Data Science","AI, Robotics",8.98,88
+100,Anjali Reddy,anjali.reddy@example.com,CSE,3rd,44,"Python, Data Science",Web Development,8.57,93
+101,Arun Sharma,arun.sharma@example.com,CSE,3rd,25,C,Web Development,5.09,74
+102,Ravi Kumar,ravi.kumar@example.com,IT,3rd,23,Java,Data Science,5.22,70
+103,Sneha Verma,sneha.verma@example.com,Mechanical,3rd,30,Python,Cybersecurity,5.87,65
+104,Rakesh Singh,rakesh.singh@example.com,CSE,3rd,28,JavaScript,AI,6.29,63
+105,Neelam Gupta,neelam.gupta@example.com,IT,3rd,23,SQL,IoT,5.04,72
+106,Shivani Reddy,shivani.reddy@example.com,CSE,3rd,23,C++,Blockchain,6.08,60
+107,Sandeep Deshmukh,sandeep.deshmukh@example.com,IT,3rd,24,HTML,Machine Learning,5.25,70
+108,Preeti Babu,preeti.babu@example.com,CSE,3rd,27,CSS,Robotics,5.39,72
+109,Karan Jain,karan.jain@example.com,Mechanical,3rd,27,Networking,Cloud Computing,5.34,74
+110,Alok Patel,alok.patel@example.com,CSE,3rd,22,Linux,AI,5.45,60
